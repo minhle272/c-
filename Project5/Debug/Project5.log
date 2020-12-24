@@ -1,0 +1,6 @@
+﻿  Source.cpp
+D:\Project5\Source.cpp(16,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+D:\Project5\Source.cpp(138,1): warning C4326: return type of 'main' should be 'int' instead of 'void'
+D:\Project5\Source.cpp(140,6): warning C4101: 'x': unreferenced local variable
+D:\Project5\Source.cpp(70): warning C4715: 'vitridau': not all control paths return a value
+  Project5.vcxproj -> D:\Project5\Debug\Project5.exe
